@@ -13,6 +13,15 @@
   "dependencies": {
     "dotenv": "^16.4.7",
     "express": "^4.21.2",
+    "express-async-handler": "^1.2.0",
     "nodemon": "^3.1.9"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/charanpagadala07/contactsapp-express.git"
+  },
+  "bugs": {
+    "url": "https://github.com/charanpagadala07/contactsapp-express/issues"
+  },
+  "homepage": "https://github.com/charanpagadala07/contactsapp-express#readme"
 }
